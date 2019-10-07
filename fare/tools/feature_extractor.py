@@ -6,7 +6,7 @@ import argparse
 import timeit
 import datetime
 
-from eugena.io import glob_files, Signature
+from fare.io import glob_files, Signature
 
 
 def image_processing(im_path):

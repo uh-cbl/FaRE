@@ -1,5 +1,5 @@
 import os
-from eugena.io import glob_files
+from fare.io import glob_files
 import csv
 import argparse
 

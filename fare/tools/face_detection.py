@@ -8,7 +8,7 @@ import tqdm
 import csv
 import numpy as np
 
-from eugena.io import glob_files
+from fare.io import glob_files
 
 
 def gen_bbox_from_landmarks(file_landmark):

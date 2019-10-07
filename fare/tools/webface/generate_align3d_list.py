@@ -6,7 +6,7 @@ from tqdm import tqdm
 from multiprocessing import Pool
 import argparse
 import numpy as np
-from eugena_io import save_csv
+from fare.io import save_csv
 import matplotlib.pyplot as plt
 
 

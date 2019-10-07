@@ -1,6 +1,6 @@
 import os
 from tqdm import tqdm
-from ..datasets import LFW, FGLFW, CFP, UHDB31, IJB_A_Compare, IJB_A_SearchIdentification
+from ..datasets import LFW, FGLFW, CFP, UHDB31
 from ..io import File, Template, Signature
 
 
