@@ -1,7 +1,7 @@
 import os
 import csv
 import argparse
-from eugena.io import Template, save_pkl
+from fare.io import Template, save_pkl
 
 
 def load_csv_to_dict(csv_path):

@@ -5,8 +5,8 @@ from multiprocessing import Pool
 import argparse
 import cv2
 
-from eugena.io import glob_files
-from eugena.geometry.rectangles import Rectangle
+from fare.io import glob_files
+from fare.geometry.rectangles import Rectangle
 
 
 import matplotlib.pyplot as plt

@@ -4,7 +4,7 @@ from tqdm import tqdm
 from multiprocessing import Pool
 import argparse
 import numpy as np
-from eugena.io import glob_files
+from fare.io import glob_files
 import matplotlib.pyplot as plt
 
 

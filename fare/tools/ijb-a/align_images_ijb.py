@@ -8,8 +8,8 @@ import os
 import tqdm
 import cv2
 
-from eugena.geometry import Align2D
-from eugena.io import load_csv, save_csv, load_lm2d
+from fare.geometry import Align2D
+from fare.io import load_csv, save_csv, load_lm2d
 from multiprocessing import Pool
 
 import matplotlib.pyplot as plt

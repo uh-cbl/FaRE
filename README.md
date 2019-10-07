@@ -3,11 +3,17 @@
 FaRE is a *light-weight*, *maintainable*, *scalable*, *generalizable*, and *extendable* face recognition evaluation toolbox. It supports both online and offline evaluation to provide feedback to algorithm development and accelerate biometric-related research.
 It consists of a set of evaluation metric functions and provides various APIs for commonly used face recognition datasets including LFW, CFP, UHDB31, and IJB datasets, which can be easily extended to include other customized datasets. 
 
-The architecture of Eugena (FaRE) is depicted in the following figure:
+The architecture of FaRE is depicted in the following figure:
 
 <p align="center">
 <img src="./docs/FaRE-Overview.png" height="300"/>
 </p>
+
+**Attention: Current meta data previously saved in the package cannot be uploaded to Github. Will send PR to fix it. Sorry for inconvenience.**
+
+# TODO
+- [ ] Remove the metadata from the package
+- [ ] Upload to Package and support pip install
 
 ## Reference
 ```

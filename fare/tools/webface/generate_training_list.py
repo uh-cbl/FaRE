@@ -4,7 +4,7 @@ import random
 from tqdm import tqdm
 import argparse
 
-from eugena_io import save_csv
+from fare.io import save_csv
 
 
 def generate_training_list():

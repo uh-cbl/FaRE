@@ -5,7 +5,7 @@ from tqdm import tqdm
 import argparse
 import sys
 
-from eugena.io import save_csv
+from fare.io import save_csv
 
 
 def merge_train_test_sets():
